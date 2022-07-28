@@ -14,7 +14,6 @@ body{
 }
 a{
     transition: 0.3s;
-    color:#000;
 }
 a:hover{
     opacity: 0.2;
@@ -69,16 +68,19 @@ top: 0;
    
 }
 .menu-list_left1{
-    f
+    color:#000;
     margin-right: 50%;
 }
 .menu-list_left2{
+    color:#000;
     margin-left: 50%;
 }
 .menu-list_right1{
+    color:#000;
     margin-right: 100%;
 }
 .menu-list_right1{
+    color:#000;
     margin-left: 100%;
 }
 .text{
