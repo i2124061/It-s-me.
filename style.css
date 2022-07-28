@@ -14,10 +14,10 @@ body{
 }
 a{
     transition: 0.3s;
+    color:#000000;
 }
 a:hover{
     opacity: 0.2;
-    color:#000;
 }
 img{
     display:block;
